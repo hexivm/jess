@@ -828,7 +828,8 @@
       }
 
       .cv-container .main {
-        height: 2485px;
+        /*jcCode*/
+        height: 2465px;
         background: white;
         box-shadow: rgba(0, 0, 0, 0.2) 0px 0px 6px;
         width: 70%;
